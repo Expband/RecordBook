@@ -1,0 +1,39 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "firstname": "daniil",
+      "lastname": "suslov",
+      "phone": "123443211",
+      "adress": "101-avenu-street"
+    },
+    {
+      "id": 1,
+      "firstname": "12",
+      "lastname": "12",
+      "phone": "12",
+      "adress": "12"
+    },
+    {
+      "id": 2,
+      "firstname": "Daniil",
+      "lastname": "Suslov",
+      "phone": "+3809312312312",
+      "adress": "dasdaa"
+    },
+    {
+      "id": 3,
+      "firstname": "123",
+      "lastname": "123",
+      "phone": "123",
+      "adress": "123"
+    },
+    {
+      "id": 4,
+      "firstname": "123",
+      "lastname": "123",
+      "phone": "123",
+      "adress": "123"
+    }
+  ]
+}
